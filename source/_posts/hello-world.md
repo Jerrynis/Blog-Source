@@ -10,7 +10,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ``` bash
 $ hexo new "My New Post"
 ```
-
+111111111111111111
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
@@ -24,7 +24,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 ### Generate static files
 
 ``` bash
-$ hexo generate
+$ hexo generat111e
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
